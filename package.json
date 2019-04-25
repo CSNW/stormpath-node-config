@@ -26,19 +26,19 @@
   "homepage": "https://github.com/stormpath/stormpath-node-config",
   "devDependencies": {
     "chai": "^3.4.0",
-    "coveralls": "^2.11.4",
+    "coveralls": "^3.0.3",
     "istanbul": "^0.4.3",
-    "mocha": "^3.0.2",
+    "mocha": "^6.1.4",
     "mocha-lcov-reporter": "^1.1.0",
     "sinon": "^1.17.2",
-    "stormpath": "^0.18.0",
+    "stormpath": "git+https://github.com/CSNW/stormpath-sdk-node.git#v1.0.0-rc17",
     "temp": "^0.8.3"
   },
   "dependencies": {
     "async": "^2.0.1",
     "flat": "^2.0.0",
     "js-yaml": "^3.5.4",
-    "lodash": "^4.0.0",
+    "lodash": "^4.7.0",
     "properties-parser": "^0.3.0"
   }
 }
