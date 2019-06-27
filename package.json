@@ -1,6 +1,6 @@
 {
   "name": "stormpath-config",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "Stormpath configuration loader.",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "mocha": "^6.1.4",
     "mocha-lcov-reporter": "^1.1.0",
     "sinon": "^1.17.2",
-    "stormpath": "git+https://github.com/CSNW/stormpath-sdk-node.git#v1.0.0-rc20",
+    "stormpath": "git+https://github.com/CSNW/stormpath-sdk-node.git#v1.0.0-rc21",
     "temp": "^0.8.3"
   },
   "dependencies": {
